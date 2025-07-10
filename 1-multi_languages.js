@@ -3,4 +3,4 @@ let B = "Python is cool";
 let C = "JavaScript is amazing";
 console.log(A);
 console.log(B);
-console.log(c);
+console.log(C);
